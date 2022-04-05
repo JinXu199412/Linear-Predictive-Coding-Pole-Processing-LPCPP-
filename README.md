@@ -1,0 +1,2 @@
+# Linear-Predictive-Coding-Pole-Processing-LPCPP-
+Linear Predictive Coding Pole Processing (LPCPP) is a parameterised time-frequency method that can be used for identifying and tracking the dominant frequency components change of a signal in real-time (i.e. the term 'real-time' refers to every sampling instant of a discrete signal). The LPCPP method further processes LPC (Linear Predictive Coding) poles to produce a series of reduced-order filter transfer functions to realise the dominant frequency estimation.
